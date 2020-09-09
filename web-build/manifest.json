@@ -1,0 +1,22 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "RSPgame",
+  "short_name": "RSPgame",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.srv.rps"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.srv.rps",
+      "id": "com.srv.rps"
+    }
+  ],
+  "prefer_related_applications": true,
+  "icons": []
+}
